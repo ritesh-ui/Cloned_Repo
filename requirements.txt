@@ -14,3 +14,4 @@ streamlit
 spacy==2.3.4
 nltk==3.4.4
 dill==0.3.3
+snowballstemmer==1.9.0
